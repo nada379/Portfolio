@@ -1,0 +1,9 @@
+#my_video{
+left:0;
+}
+input:focus {
+  background-color: lightblue;
+}
+p::first-letter {
+  background-color: aqua;
+}
